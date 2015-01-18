@@ -1,9 +1,12 @@
-**Objectif recruteur :** Evaluer la qualité du code, l’adaptabilité du candidat sur une problématique concrète.
+##Objectif recruteur
+Evaluer la qualité du code, l’adaptabilité du candidat sur une problématique concrète.
 Durée : 48h
 
-**Objectif candidat :** Développer une application AngularJS permettant d’afficher une map Google Maps, via l’api Google Maps v3.
+##Objectif candidat 
+Développer une application AngularJS permettant d’afficher une map Google Maps, via l’api Google Maps v3.
 
-**Consignes :** L’application sera composée d’une vue centrale (celle de la carte google maps), ainsi que d’une vue latérale.
+##Consignes 
+L’application sera composée d’une vue centrale (celle de la carte google maps), ainsi que d’une vue latérale.
 
 Cette vue latérale devra implémenter 3 fonctionnalités :
 
@@ -35,7 +38,7 @@ déjà dessinées, et de vider les inputs des précédentes fonctionnalités. Un
 Le système WGS84 sera utilisé pour les coordonnées géographiques.
 L’unité de distance acceptée pour la création des cercles est le kilomètre.
 
-### Notes
+## Notes
 Une grande attention sera portée à la propreté/qualité du code, au respect des coding styles javascript,
 au découpage judicieux des différentes vues angular composant l'application, à l’indentation..
 
