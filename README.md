@@ -1,6 +1,5 @@
 ##Objectif recruteur
 Evaluer la qualité du code, l’adaptabilité du candidat sur une problématique concrète.
-Durée : 48h
 
 ##Objectif candidat 
 Développer une application AngularJS permettant d’afficher une map Google Maps, via l’api Google Maps v3.
@@ -28,7 +27,6 @@ sera composée:
 lat1$lon1+lat2$lon2+lat3$lon3
 
   2.2. D’un bouton “Dessiner le cercle”, qui dessinera le cercle sur la carte et réinitialisera les inputs précédents.
-
 
 3. **Réinitialiser la carte :** Cette fonctionnalité est composé d'un unique bouton qui permettra à l'utilisateur de détruire les formes géométriques
 déjà dessinées, et de vider les inputs des précédentes fonctionnalités. Un clic sur ce bouton revient donc à réinitialiser l'interface.
