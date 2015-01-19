@@ -1,0 +1,12 @@
+.sidebar {
+    width:200px;
+    height: 100%;
+    margin-right: 20px;
+}
+li {
+    width:100%;
+}
+
+.angular-google-map-container { 
+    height: 400px;
+}
