@@ -1,8 +1,9 @@
 <ui-gmap-google-map center='map.center' zoom='map.zoom'>
+	<!-- Fills the map with the circles defined in $scope.circles -->
 	<ui-gmap-circle ng-repeat="c in circles" center="c.center" stroke="c.stroke" fill="c.fill" radius="c.radius" geodesic="true" visible="true">
 	</ui-gmap-circle>
 
-	<ui-gmap-polygon ng-repeat="p in polygons" path="p.path" stroke="p.stroke" visible="true"
-                  fill="p.fill">
+	<!-- Fills the map with the polygons defined in $scope.polygons -->
+	<ui-gmap-polygon ng-repeat="p in polygons" path="p.path" stroke="p.stroke" visible="true" fill="p.fill">
     </ui-gmap-polygon>
 </ui-gmap-google-map>
